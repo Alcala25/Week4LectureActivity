@@ -1,5 +1,5 @@
 ﻿/* 
-    *  Author: Jonathan Cruz
+    *  Author: Eduardo Alcala
     *  Course: COMP-003A
     *  Purpose: Code for Lecture Activity 4
     *  Reference: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/iteration-statements
